@@ -1,0 +1,41 @@
+
+# Audio
+
+# Camera
+
+# DRM
+
+# Display-Hardware
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Radio-IMS
+-priv-app/ims/ims.apk
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# rootdir
+
+# Misc
